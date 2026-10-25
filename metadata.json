@@ -1,0 +1,6 @@
+{
+  "name": "SmartReminder",
+  "description": "Smart reminder and schedule manager with OCR, alarm scheduling, local Room database, and categories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
